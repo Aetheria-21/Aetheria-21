@@ -70,5 +70,14 @@
 ## 📫 Connect with Me
 
 💙 GitHub: https://github.com/Aetheria
+💙 Contactez-moi : rjab.waad@gmail.com 
+💙 LinkedIn:https://www.linkedin.com/in/rejeb-ouaad/
+💙 Instagram : https://www.instagram.com/aethe_ria21/
+💙 TikTok : https://www.tiktok.com/@aetheria_21 
+💙 YouTube : https://www.youtube.com/@aethe_ria21  
+💙 X : https://x.com/aetheria_21
+💙SpaceHey : https://spacehey.com/aethe_ria21
+💙Behance : https://www.behance.net/rjabwaed
+💙myanimelist : https://myanimelist.net/profile/Aetheria_21
 
 ---
