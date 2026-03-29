@@ -4,6 +4,7 @@
 
 💻 Creative Web Developer | Laravel & Angular 🚀<br>
 🌐 Building aesthetic & functional web experiences<br>
+![Stars](https://i.pinimg.com/originals/29/53/0d/29530d090eae46028ee5b311ebdc86db.gif)
 
 ---
 
