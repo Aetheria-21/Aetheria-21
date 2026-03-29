@@ -1,26 +1,26 @@
 # 🌙 Hi, I'm Waed (Aetheria)
 
-🎓 Web & Multimedia Development Student
+🎓 Web & Multimedia Development Student<br>
 
-💻 Creative Web Developer | Laravel & Angular 🚀
-🌐 Building aesthetic & functional web experiences
+💻 Creative Web Developer | Laravel & Angular 🚀<br>
+🌐 Building aesthetic & functional web experiences<br>
 
 ---
 
 ## 🌌 About Me
 
-✨ I turn ideas into clean and creative web applications
-🚀 Currently improving my skills through real-world projects
-🌙 I enjoy blending design with development
+✨ I turn ideas into clean and creative web applications<br>
+🚀 Currently improving my skills through real-world projects<br>
+🌙 I enjoy blending design with development<br>
 
 ---
 
 ## 💻 Skills
 
-🌐 HTML • CSS • JavaScript
-⚙️ PHP • Laravel
-🅰️ Angular
-🗄️ MySQL
+🌐 HTML • CSS • JavaScript<br>
+⚙️ PHP • Laravel<br>
+🅰️ Angular<br>
+🗄️ MySQL<br>
 
 ---
 
@@ -28,36 +28,36 @@
 
 ### 📅 MyLife
 
-🔹Fiminine site to girlise to organaze their lifes
-🔹Built with Laravel
-🔹Uses API to fetch real-time weather data
-🔹Displays prayer times dynamically
+🔹Fiminine site to girlise to organaze their lifes<br>
+🔹Built with Laravel<br>
+🔹Uses API to fetch real-time weather data<br>
+🔹Displays prayer times dynamically<br>
 
 ### 📅 music-heart-visualizer
 
-🔹Music Heart Visualizer with Html,css &js
-🔹Select a amusic and it will play it
-🔹Choose your theme 
+🔹Music Heart Visualizer with Html,css &js<br>
+🔹Select a amusic and it will play it<br>
+🔹Choose your theme <br>
 
 ### 📅 cute-calculator 
 
-🔹Calculator with a girly theme
-🔹Build with html,css and js
+🔹Calculator with a girly theme<br>
+🔹Build with html,css and js<br>
 
 ### 📅 CalculatriceAndroid
 
-🔹Calculator with a girly theme
-🔹Buid with java - android
+🔹Calculator with a girly theme<br>
+🔹Buid with java - android<br>
 
 ### 📅 gestion-magasin-soa
 
-🔹Java project for a mall management system
-🔹Uses SOA service
+🔹Java project for a mall management system<br>
+🔹Uses SOA service<br>
 
 ### 📅 contact-management-system_laravel
 
-🔹Build with Laravel
-🔹A little contact management system
+🔹Build with Laravel<br>
+🔹A little contact management system<br>
 
 ---
 
@@ -69,15 +69,15 @@
 
 ## 📫 Connect with Me
 
-💙 GitHub: https://github.com/Aetheria
-💙 Contactez-moi : rjab.waad@gmail.com 
-💙 LinkedIn:https://www.linkedin.com/in/rejeb-ouaad/
-💙 Instagram : https://www.instagram.com/aethe_ria21/
-💙 TikTok : https://www.tiktok.com/@aetheria_21 
-💙 YouTube : https://www.youtube.com/@aethe_ria21  
-💙 X : https://x.com/aetheria_21
-💙SpaceHey : https://spacehey.com/aethe_ria21
-💙Behance : https://www.behance.net/rjabwaed
-💙myanimelist : https://myanimelist.net/profile/Aetheria_21
+💙 GitHub: https://github.com/Aetheria<br>
+💙 Contactez-moi : rjab.waad@gmail.com <br>
+💙 LinkedIn:https://www.linkedin.com/in/rejeb-ouaad/<br>
+💙 Instagram : https://www.instagram.com/aethe_ria21/<br>
+💙 TikTok : https://www.tiktok.com/@aetheria_21 <br>
+💙 YouTube : https://www.youtube.com/@aethe_ria21  <br>
+💙 X : https://x.com/aetheria_21<br>
+💙SpaceHey : https://spacehey.com/aethe_ria21<br>
+💙Behance : https://www.behance.net/rjabwaed<br>
+💙myanimelist : https://myanimelist.net/profile/Aetheria_21<br>
 
 ---
