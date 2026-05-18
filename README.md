@@ -70,7 +70,7 @@
 
 ## 📫 Connect with Me
 
-💙 GitHub: https://github.com/Aetheria<br>
+💙 GitHub: https://github.com/Aetheria-21<br>
 💙 Contactez-moi : rjab.waad@gmail.com <br>
 💙 LinkedIn:https://www.linkedin.com/in/rejeb-ouaad/<br>
 💙 Instagram : https://www.instagram.com/aethe_ria21/<br>
