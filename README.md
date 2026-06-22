@@ -20,7 +20,6 @@
 
 🌐 HTML • CSS • JavaScript<br>
 ⚙️ PHP • Laravel<br>
-🅰️ Angular<br>
 🗄️ MySQL<br>
 
 ---
