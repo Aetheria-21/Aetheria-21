@@ -29,7 +29,7 @@
 
 ### 📅 MyLife
 
-🔹Fiminine site to girlise to organaze their lifes<br>
+🔹Fiminine site to uni students to organaze their lifes<br>
 🔹Built with Laravel<br>
 🔹Uses API to fetch real-time weather data<br>
 🔹Displays prayer times dynamically<br>
